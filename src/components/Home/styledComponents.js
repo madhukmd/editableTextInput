@@ -6,7 +6,7 @@ export const HomeContainer = styled.div`
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #f5d0fe;
+  background-color: #322835;
 `
 
 export const ContentContainer = styled.div`
